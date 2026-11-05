@@ -99,19 +99,19 @@ Magadh University | 2000 – 2004
 
 ## Technical Skills
 
-**Programming:** Python, Java, C/C++, JavaScript, SQL
 
-**AI/ML Frameworks:** PyTorch, TensorFlow, JAX, Scikit-learn
+## Technical Skills
 
-**Probabilistic Modeling & Statistics:** PyMC, Bayesian Inference, Probabilistic Modeling
+| Category | Skills |
+|:--|:--|
+| **Programming** | Python, Java, C/C++, JavaScript, SQL |
+| **AI/ML Frameworks** | PyTorch, TensorFlow, JAX, Scikit-learn |
+| **Probabilistic Modeling** | PyMC, Bayesian Inference, Probabilistic Modeling |
+| **Agentic AI & Evaluation** | Agentic AI, LLM Evaluation, Model Reliability, Multimodal AI, AI Safety & Monitoring |
+| **AI Tools & Ecosystem** | Hugging Face, LangChain, LangGraph, OpenAI APIs |
+| **Engineering** | System Validation, Integration Testing, Automation, Wireless Protocols, Project Management |
+| **Research** | Experiment Design, Reliability Evaluation, Simulation, Safety & Monitoring |
 
-**Agentic AI & Evaluation:** Agentic AI, LLM Evaluation, Model Reliability, Multimodal AI, AI Safety & Monitoring
-
-**AI Tools & Ecosystem:** Hugging Face, LangChain, LangGraph, OpenAI APIs
-
-**Engineering:** System Validation and Integration Testing, Automation, Wireless Protocols, Project Management
-
-**Research:** Experiment Design, Reliability Evaluation, Simulation, Safety & Monitoring
 
 ## Entrepreneurship & Community
 
