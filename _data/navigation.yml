@@ -15,11 +15,11 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Research"
-    url: /research/
+ # - title: "Research"
+  #  url: /research/
 
-  - title: "Projects"
-    url: /projects/
+ # - title: "Projects"
+  #  url: /projects/
 
   - title: "Blog"
     url: /blog/
@@ -31,5 +31,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+  #  url: /markdown/
