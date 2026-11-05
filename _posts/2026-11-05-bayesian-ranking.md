@@ -29,8 +29,7 @@ p \sim \operatorname{Beta}(\alpha,\beta)
 After observing \(U\) upvotes and \(D\) downvotes, the posterior distribution becomes:
 
 \[
-p\mid U,D \sim
-\operatorname{Beta}(\alpha+U,\beta+D)
+p\mid U,D \sim \operatorname{Beta}(\alpha+U,\beta+D)
 \]
 
 The posterior represents our updated uncertainty about the underlying upvote probability.
@@ -55,3 +54,4 @@ The Bayesian perspective encourages us to ask:
 The same philosophy applies beyond Reddit—to model evaluation, agent reliability, and decision-making under uncertainty.
 
 **Sometimes the problem is not how to sort the data. It is whether we should trust the ordering in the first place.**
+
