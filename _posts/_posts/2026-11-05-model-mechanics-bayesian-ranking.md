@@ -9,12 +9,8 @@ tags:
   - Statistics
 ---
 
-# Model Mechanics: Can We Trust the Ranking?
 
-<!-- Your blog content goes here -->
----
-title: "Model Mechanics: Bayesian Inference and the Problem of Ranking"
----
+# Model Mechanics: Can We Trust the Ranking?
 
 # Model Mechanics: Bayesian Inference and the Problem of Ranking
 
