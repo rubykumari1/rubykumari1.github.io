@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Ruby Kumari"
   pronouns         : # example: "she/her"  
-  bio              : "Independent systems researcher. Learning and Building from first principles in AI systems,and infrastructure."
+  bio              : "Independent AI researcher exploring agentic systems, model evaluation, and AI infrastructure. Learning, experimenting, and building from first principles."
   location         : "India"
-  employer         : "Tathyam"
-  uri              : # URL
+  employer         : "Tathyam.ai"
+  uri              : "https://tathyam.ai"
   email            : "" 
 
   # Academic websites
