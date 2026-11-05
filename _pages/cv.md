@@ -89,15 +89,19 @@ Magadh University | 2000 – 2004
 
 ## Certifications & Programs
 
-- UK–India Tech Partnership — AI Curriculum Connect | British High Commission in India, 2021
-- Women Startup Program | NSRCEL, IIM Bangalore, 2020
-- Machine Learning | Coursera, 2019
-- Analytics for Management | IIT Bombay
-- Project Management Professional (PMP) | PMI, 2014–2020 (expired)
-- Startup School | Y Combinator, 2018
-- Creative Writing | Oxford Lifelong Learning, 2022
 
-## Technical Skills
+## Certifications & Professional Programs
+
+| Program / Certification | Institution | Year |
+|:--|:--|:--|
+| Analytics for Management | IIT Bombay | — |
+| Startup School | Y Combinator | 2018 |
+| UK–India Tech Partnership — AI Curriculum Connect | British High Commission in India | 2021 |
+| Creative Writing | Oxford Lifelong Learning | 2022 |
+| Women Startup Program | NSRCEL, IIM Bangalore | 2020 |
+| Machine Learning | Coursera | 2019 |
+| Analytics for Management | IIT Bombay | — |
+| Project Management Professional (PMP) — **Expired** | Project Management Institute (PMI) | 2014–2020 |
 
 
 ## Technical Skills
