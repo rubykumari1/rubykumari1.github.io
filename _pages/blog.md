@@ -1,9 +1,10 @@
-layout	archive
-title	blog
-permalink	/blog/
-author_profile	true
-redirect_from	
-/_posts
+---
+layout: archive
+title: "blog"
+permalink: /blog/
+author_profile: true
+---
+
 {% include base_path %}
 
 # Model Mechanics
