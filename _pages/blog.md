@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Model Mechanics"
+title: "Blog"
 permalink: /blog/
 author_profile: true
 ---
